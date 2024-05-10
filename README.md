@@ -20,6 +20,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRzcHJyY2ltc2M2eHh1d2g2cDJzMnZhMGFtMXp0dmJ1N3g1dWkyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0Iy88cWKqBeBN92o/giphy.gif" width="600" height="300"/>
 </div>
+<div align="center"
 :hammer_and_wrench: Languages and Tools :
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -34,7 +35,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+</div>
+<div align="center">
 :fire: My Stats:
-<div>
+<div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=lindiwe09&theme=dark&background=000000)](https://git.io/streak-stats"/>
+</div>
 </div>
